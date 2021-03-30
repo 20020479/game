@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1617068694 source:c:\users\os\onedrive\desktop\baitaplon\baitaplon\main.cpp
+	"stdarg.h"
+	"CommonFunction.h"
+	"BaseObject.h"
+	"MainObject.h"
+
+1617065548 c:\users\os\onedrive\desktop\baitaplon\baitaplon\commonfunction.h
+	<Windows.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string>
+
+1617045825 c:\users\os\onedrive\desktop\baitaplon\baitaplon\baseobject.h
+	"CommonFunction.h"
+
+1617045825 source:c:\users\os\onedrive\desktop\baitaplon\baitaplon\baseobiect.cpp
+	"BaseObject.h"
+	"CommonFunction.h"
+	"stdarg.h"
+
+1617045825 source:c:\users\os\onedrive\desktop\baitaplon\baitaplon\commonfunction.cpp
+	"CommonFunction.h"
+	"stdarg.h"
+
+1617022558 source:c:\users\os\onedrive\desktop\baitaplon\baitaplon\map.cpp
+
+1617068694 source:c:\users\os\onedrive\desktop\baitaplon\baitaplon\mainobject.cpp
+	"MainObject.h"
+	"CommonFunction.h"
+	"stdarg.h"
+
+1617067771 c:\users\os\onedrive\desktop\baitaplon\baitaplon\mainobject.h
+	"CommonFunction.h"
+	"BaseObject.h"
+
